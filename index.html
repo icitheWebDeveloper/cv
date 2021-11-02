@@ -15,7 +15,7 @@
         <h1> İlhan Can İlhan</h1>
         <p> <em>A new <strong><a href="https://www.linkedin.com/in/ilhan-can-ilhan-344309205/"> Mahallenizin Web Developer'ı</a></strong>.</em></p> <!-- linkledik -->
         <!--paragraf ve italik ve kalın -->
-        <p> Im a Web Developer. I love coffee and Gokce. </p>
+        <p> Im a Web Developer. I love coffee. </p>
       </td>
     </tr>
   </table>
@@ -23,7 +23,6 @@
   <h3>People I like</h3>
   <ul>
     <li>Freddy Mercury</li>
-    <li>Putin</li>
     <li>Dio</li>
     <li>Jeff Bezos</li>
     <li>Myself</li>
